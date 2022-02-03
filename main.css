@@ -1,0 +1,15 @@
+:root{
+  --o-animation:#CF5300 ;
+}
+h1{
+  color:#000000;
+  font-size: 30px;
+}
+h2{
+  font-size: 15px;
+}
+p{
+  color:var(--o-animation);
+  font-size:20px;
+}
+}
